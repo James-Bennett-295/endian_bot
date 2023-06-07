@@ -1,0 +1,6 @@
+{
+	"token": "BotToken",
+	"appId": "000000000000000000",
+	"guildId": "000000000000000000",
+	"dbConnectionUrl": "postgresql://endian_bot:PASSWORD@HOST:PORT/endian_bot"
+}
